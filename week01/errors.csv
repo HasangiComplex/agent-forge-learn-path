@@ -1,0 +1,13 @@
+file,field,type,message
+post_01.json,userId,int_parsing,"Input should be a valid integer, unable to parse string as an integer"
+post_01.json,title,missing,Field required
+post_02.json,userId,int_parsing,"Input should be a valid integer, unable to parse string as an integer"
+post_02.json,unexpected,extra_forbidden,Extra inputs are not permitted
+post_03.json,title,missing,Field required
+post_03.json,unexpected,extra_forbidden,Extra inputs are not permitted
+post_04.json,userId,int_parsing,"Input should be a valid integer, unable to parse string as an integer"
+post_04.json,title,missing,Field required
+post_05.json,title,missing,Field required
+post_05.json,unexpected,extra_forbidden,Extra inputs are not permitted
+post_06.json,title,missing,Field required
+post_06.json,unexpected,extra_forbidden,Extra inputs are not permitted
